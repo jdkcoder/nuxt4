@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "postinstall": "nuxi prepare",
+    "clean": "nuxi cleanup"
+  },
+  "dependencies": {
+    "nuxt": "latest",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@vueuse/core": "latest",
+    "@vueuse/nuxt": "latest",
+    "@vueuse/integrations": "latest",
+    "@vueuse/router": "latest",
+    "@unocss/reset": "latest",
+    "@unocss/nuxt": "latest",
+    "unocss":"latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest",
+    "stylus": "latest",
+    "vaxee": "latest",
+    "@vaxee/nuxt": "latest",
+    "@nuxt/fonts": "latest",
+    "nuxt-workers": "latest"
+  }
+}
