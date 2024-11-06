@@ -15,19 +15,21 @@
     "vue": "latest"
   },
   "devDependencies": {
-    "@vueuse/core": "latest",
-    "@vueuse/nuxt": "latest",
-    "@vueuse/integrations": "latest",
-    "@vueuse/router": "latest",
-    "@unocss/reset": "latest",
-    "@unocss/nuxt": "latest",
-    "unocss":"latest",
-    "clsx": "latest",
-    "tailwind-merge": "latest",
-    "stylus": "latest",
-    "vaxee": "latest",
-    "@vaxee/nuxt": "latest",
+    "@iconify-json/fluent": "latest",
+    "@iconify-json/svg-spinners": "latest",
     "@nuxt/fonts": "latest",
-    "nuxt-workers": "latest"
+    "@unocss/nuxt": "latest",
+    "@unocss/reset": "latest",
+    "@vaxee/nuxt": "latest",
+    "@vueuse/core": "latest",
+    "@vueuse/integrations": "latest",
+    "@vueuse/nuxt": "latest",
+    "@vueuse/router": "latest",
+    "clsx": "latest",
+    "nuxt-workers": "latest",
+    "stylus": "latest",
+    "tailwind-merge": "latest",
+    "unocss": "latest",
+    "vaxee": "latest"
   }
 }
