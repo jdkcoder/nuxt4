@@ -35,7 +35,7 @@ export default defineNuxtConfig({
       ],
     },
     rootAttrs: {
-      class: `size-full`
+      class: `size-full`,
     }
   },
   experimental: {
